@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/audric/RiderProjects/ProductExercise/WebApi/WebApi.csproj": {}
+  },
+  "projects": {
+    "/home/audric/RiderProjects/ProductExercise/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/audric/RiderProjects/ProductExercise/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/home/audric/RiderProjects/ProductExercise/DAL/DAL.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/RiderProjects/ProductExercise/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/audric/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj": {
+                "projectPath": "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj",
+        "projectName": "ProductExercise",
+        "projectPath": "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/RiderProjects/ProductExercise/ProductExercise/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/audric/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/audric/RiderProjects/ProductExercise/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/audric/RiderProjects/ProductExercise/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/home/audric/RiderProjects/ProductExercise/WebApi/WebApi.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/RiderProjects/ProductExercise/WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/audric/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/audric/RiderProjects/ProductExercise/DAL/DAL.csproj": {
+                "projectPath": "/home/audric/RiderProjects/ProductExercise/DAL/DAL.csproj"
+              },
+              "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj": {
+                "projectPath": "/home/audric/RiderProjects/ProductExercise/ProductExercise/ProductExercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
