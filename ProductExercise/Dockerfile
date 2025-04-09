@@ -3,7 +3,7 @@ WORKDIR /ProductExercise
 
 COPY . ./
 
-RUN dotnet restore
+RUN dotnet restore ProductExercise.sln
 
 WORKDIR /ProductExercise/WebApi
 RUN dotnet publish -c Release -o out
