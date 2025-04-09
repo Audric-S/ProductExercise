@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F453B1-6793-4C80-A2D8-9E6713CF81DD}|ProductExercise\\Models.csproj|c:\\users\\audric\\sources\\productexercise\\productexercise\\productexercise\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0F453B1-6793-4C80-A2D8-9E6713CF81DD}|ProductExercise\\Models.csproj|solutionrelative:productexercise\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9116FB75-7D9B-479F-A37B-93B3194B3708}|DAL\\DAL.csproj|c:\\users\\audric\\sources\\productexercise\\productexercise\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9116FB75-7D9B-479F-A37B-93B3194B3708}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj",
+              "RelativeDocumentMoniker": "ProductExercise\\Models.csproj",
+              "ToolTip": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj",
+              "RelativeToolTip": "ProductExercise\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T19:45:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T19:43:48.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
