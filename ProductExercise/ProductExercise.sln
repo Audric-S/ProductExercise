@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductExercise", "ProductExercise\ProductExercise.csproj", "{C0F453B1-6793-4C80-A2D8-9E6713CF81DD}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "ProductExercise\Models.csproj", "{C0F453B1-6793-4C80-A2D8-9E6713CF81DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{9116FB75-7D9B-479F-A37B-93B3194B3708}"
 EndProject
@@ -24,5 +27,11 @@ Global
 		{29CFDDA7-26C4-4708-84DB-CF491BFFF5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CFDDA7-26C4-4708-84DB-CF491BFFF5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CFDDA7-26C4-4708-84DB-CF491BFFF5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA34CD2D-1906-4B62-A9D5-71F3CDBAE3BC}
 	EndGlobalSection
 EndGlobal

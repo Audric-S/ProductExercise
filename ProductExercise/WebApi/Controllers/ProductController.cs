@@ -1,7 +1,7 @@
 using DAL;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ProductExercise;
+using Models;
 
 namespace WebApi.Controllers;
 

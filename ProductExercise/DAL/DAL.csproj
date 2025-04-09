@@ -8,11 +8,10 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
-      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.1" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ProductExercise\ProductExercise.csproj" />
+      <ProjectReference Include="..\ProductExercise\Models.csproj" />
     </ItemGroup>
 
 </Project>

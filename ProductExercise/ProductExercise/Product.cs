@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ProductExercise;
+namespace Models;
 
 [Table(nameof(Product))]
 public class Product
@@ -22,6 +22,4 @@ public class Product
     public int UnitInStock { get; set; }
 
     public double Weight { get; set; }
-
-    public ICollection<OrderProduct> OrderProducts { get; set; }
 }

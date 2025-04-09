@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProductExercise;
+using Models;
 
 namespace DAL;
 

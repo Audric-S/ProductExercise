@@ -4,35 +4,30 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<DBContext>(
-    optionsBuilder => optionsBuilder.UseSqlServer(
+    options => options.UseMySQL(
         builder.Configuration.GetConnectionString("DatabaseProductExercise")
     )
 );
 
 
-
-
-
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAngularApp", policy =>
+    options.AddPolicy("AllowApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200") // Autorise uniquement cette origine
-              .AllowAnyMethod() // Autorise toutes les méthodes HTTP (GET, POST, etc.)
-              .AllowAnyHeader(); // Autorise tous les headers (Authorization, Content-Type, etc.)
+        policy.WithOrigins("http://localhost:4200", "http://localhost:5196")
+              .AllowAnyMethod()
+              .AllowAnyHeader();
     });
 });
 
 
 var app = builder.Build();
-app.UseCors("AllowAngularApp");
 
 if (app.Environment.IsDevelopment())
 {
@@ -40,6 +35,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseHttpsRedirection();
+app.UseCors("AllowApp");
 
 app.UseAuthorization();
 

@@ -20,3 +20,15 @@
 /home/audric/RiderProjects/ProductExercise/ProductExercise/obj/Debug/net9.0/refint/ProductExercise.dll
 /home/audric/RiderProjects/ProductExercise/ProductExercise/obj/Debug/net9.0/ProductExercise.pdb
 /home/audric/RiderProjects/ProductExercise/ProductExercise/obj/Debug/net9.0/ref/ProductExercise.dll
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\bin\Debug\net9.0\ProductExercise.deps.json
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\bin\Debug\net9.0\ProductExercise.dll
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\bin\Debug\net9.0\ProductExercise.pdb
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.AssemblyInfoInputs.cache
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.AssemblyInfo.cs
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.csproj.CoreCompileInputs.cache
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.sourcelink.json
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.dll
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\refint\ProductExercise.dll
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ProductExercise.pdb
+C:\Users\Audric\sources\ProductExercise\ProductExercise\ProductExercise\obj\Debug\net9.0\ref\ProductExercise.dll

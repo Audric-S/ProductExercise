@@ -10,12 +10,13 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
+        <PackageReference Include="MySql.EntityFrameworkCore" Version="9.0.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\DAL\DAL.csproj" />
-      <ProjectReference Include="..\ProductExercise\ProductExercise.csproj" />
+      <ProjectReference Include="..\ProductExercise\Models.csproj" />
     </ItemGroup>
 
 </Project>

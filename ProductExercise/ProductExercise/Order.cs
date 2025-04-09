@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ProductExercise;
+namespace Models;
 
 [Table(nameof(Order))]
 public class Order
