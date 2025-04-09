@@ -5,14 +5,14 @@ COPY . ./
 
 RUN dotnet restore
 
-WORKDIR /app/MonApi
+WORKDIR /app/WebApi
 RUN dotnet publish -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 
-COPY --from=build /app/MonApi/out ./
+COPY --from=build /app/WebApi/out ./
 
 EXPOSE 80
 
-ENTRYPOINT ["dotnet", "MonApi.dll"]
+ENTRYPOINT ["dotnet", "WebApi.dll"]
