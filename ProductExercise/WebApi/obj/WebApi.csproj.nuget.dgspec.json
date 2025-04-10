@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\WebApi\\WebApi.csproj": {}
+    "/home/audric/sources/ProductExercise/ProductExercise/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj": {
+    "/home/audric/sources/ProductExercise/ProductExercise/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj",
+        "projectUniqueName": "/home/audric/sources/ProductExercise/ProductExercise/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Audric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\obj\\",
+        "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/DAL/DAL.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/sources/ProductExercise/ProductExercise/DAL/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Audric\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/audric/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj": {
-                "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj"
+              "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj": {
+                "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj"
               }
             }
           }
@@ -46,9 +40,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -75,32 +69,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj": {
+    "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj",
+        "projectUniqueName": "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj",
-        "packagesPath": "C:\\Users\\Audric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\obj\\",
+        "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Audric\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/audric/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,9 +105,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -140,43 +128,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\WebApi\\WebApi.csproj": {
+    "/home/audric/sources/ProductExercise/ProductExercise/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\Audric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\WebApi\\obj\\",
+        "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/WebApi.csproj",
+        "packagesPath": "/home/audric/.nuget/packages/",
+        "outputPath": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Audric\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/audric/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\DAL\\DAL.csproj"
+              "/home/audric/sources/ProductExercise/ProductExercise/DAL/DAL.csproj": {
+                "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/DAL/DAL.csproj"
               },
-              "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj": {
-                "projectPath": "C:\\Users\\Audric\\sources\\ProductExercise\\ProductExercise\\ProductExercise\\Models.csproj"
+              "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj": {
+                "projectPath": "/home/audric/sources/ProductExercise/ProductExercise/ProductExercise/Models.csproj"
               }
             }
           }
@@ -189,9 +171,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -233,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/audric/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

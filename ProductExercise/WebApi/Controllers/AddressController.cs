@@ -78,4 +78,20 @@ public class AddressController : ControllerBase
 
         return NoContent();
     }
+    
+    
+    [HttpGet("page")]
+    public IActionResult GetAddressPage()
+    {
+        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "address.html");
+
+        if (!System.IO.File.Exists(filePath))
+        {
+            return NotFound("Le fichier HTML n'existe pas.");
+        }
+
+        return PhysicalFile(filePath, "text/html");
+    }
+
+
 }

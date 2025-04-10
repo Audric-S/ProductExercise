@@ -34,12 +34,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 app.UseHttpsRedirection();
+
 app.UseCors("AllowApp");
 
-app.UseAuthorization();
-
 app.UseStaticFiles();
+
+app.UseAuthorization();
 
 app.MapControllers();
 
