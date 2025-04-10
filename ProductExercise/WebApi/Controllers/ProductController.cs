@@ -40,13 +40,13 @@ namespace WebApi.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (productDto.Price < 0)
+            if (productDto.Price <= 0)
                 return BadRequest("Le prix du produit doit être supérieur à 0.");
 
-            if (productDto.UnitInStock <= 0)
+            if (productDto.UnitInStock < 0)
                 return BadRequest("La quantité en stock doit être supérieure à 0.");
 
-            if (productDto.Weight < 0)
+            if (productDto.Weight <= 0)
                 return BadRequest("Le poids doit être supérieure à 0.");
 
             var product = new Product
@@ -71,13 +71,13 @@ namespace WebApi.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (productDto.Price < 0)
+            if (productDto.Price <= 0)
                 return BadRequest("Le prix du produit doit être supérieur à 0.");
 
-            if (productDto.UnitInStock <= 0)
+            if (productDto.UnitInStock < 0)
                 return BadRequest("La quantité en stock doit être supérieure à 0.");
             
-            if (productDto.Weight < 0)
+            if (productDto.Weight <= 0)
                 return BadRequest("Le poids doit être supérieure à 0.");
 
             var product = await _context.Products.FindAsync(id);
