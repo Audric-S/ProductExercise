@@ -9,7 +9,7 @@ public class DBContext : DbContext
     public DbSet<Order> Orders { get; set; }
     public DbSet<Client> Clients { get; set; }
     public DbSet<Address> Addresses { get; set; }
-    public DbSet<OrderProduct> OrderProducts { get; set; }
+    public DbSet<OrderDetails> OrderDetails { get; set; }
 
     public DBContext()
         : base()

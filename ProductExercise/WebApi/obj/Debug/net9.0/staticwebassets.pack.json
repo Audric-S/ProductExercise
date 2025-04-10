@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/address.html"
     },
     {
+      "Id": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css",
+      "PackagePath": "staticwebassets/css/address.css"
+    },
+    {
       "Id": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/js/script.js",
       "PackagePath": "staticwebassets/js/script.js"
     },

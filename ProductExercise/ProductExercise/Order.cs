@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Models;
 
@@ -18,5 +19,5 @@ public class Order
     [ForeignKey(nameof(ClientId))]
     public Client Client { get; set; }
 
-    public ICollection<OrderProduct> OrderProducts { get; set; }
+    public ICollection<OrderDetails> OrderDetails { get; set; }
 }

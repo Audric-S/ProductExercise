@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ZMDRqInhhv1piuSznprWoWsJg+LdM9POvk2FMZEtRg=",
+  "Hash": "yXfFnq9WkHz2utCmX2fvMo8kQQOFnk3mJ203ABP2iJQ=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz",
+      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
       "ContentRoot": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WebApi",
-      "RelativePath": "js/script#[.{fingerprint=h7t17rebtw}]?.js.gz",
+      "RelativePath": "js/script#[.{fingerprint=3nom10bwm2}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,19 +31,40 @@
       "RelatedAsset": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/js/script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jcaxx5mwhc",
-      "Integrity": "owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig=",
+      "Fingerprint": "isfvzu5z79",
+      "Integrity": "sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/js/script.js"
     },
     {
-      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz",
+      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
       "ContentRoot": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WebApi",
-      "RelativePath": "address#[.{fingerprint=hkdcxj1jcv}]?.html.gz",
+      "RelativePath": "css/address#[.{fingerprint=ubj4pt3vk6}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3vemj833a7",
+      "Integrity": "v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css"
+    },
+    {
+      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "address#[.{fingerprint=46z86m2tyn}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +73,8 @@
       "RelatedAsset": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/address.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ozex1vjuk0",
-      "Integrity": "3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE=",
+      "Fingerprint": "hkz6rxznw3",
+      "Integrity": "b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/address.html"
@@ -73,11 +94,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hkdcxj1jcv",
-      "Integrity": "T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo=",
+      "Fingerprint": "46z86m2tyn",
+      "Integrity": "9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/address.html"
+    },
+    {
+      "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "css/address#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ubj4pt3vk6",
+      "Integrity": "Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/address.css"
     },
     {
       "Identity": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/js/script.js",
@@ -94,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h7t17rebtw",
-      "Integrity": "HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs=",
+      "Fingerprint": "3nom10bwm2",
+      "Integrity": "wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/script.js"
@@ -103,13 +145,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "address.hkdcxj1jcv.html",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz",
+      "Route": "address.46z86m2tyn.html",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001883239171"
+          "Quality": "0.001200480192"
         }
       ],
       "ResponseHeaders": [
@@ -119,15 +161,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "530"
+          "Value": "832"
         },
         {
           "Name": "ETag",
-          "Value": "\"3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE=\""
+          "Value": "\"b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -147,13 +189,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo=\""
+          "Value": "W/\"9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkdcxj1jcv"
+          "Value": "46z86m2tyn"
         },
         {
           "Name": "label",
@@ -161,12 +203,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo="
+          "Value": "sha256-9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0="
         }
       ]
     },
     {
-      "Route": "address.hkdcxj1jcv.html",
+      "Route": "address.46z86m2tyn.html",
       "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/address.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -176,7 +218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1384"
+          "Value": "2593"
         },
         {
           "Name": "Content-Type",
@@ -184,11 +226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo=\""
+          "Value": "\"9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,7 +240,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkdcxj1jcv"
+          "Value": "46z86m2tyn"
         },
         {
           "Name": "label",
@@ -206,13 +248,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo="
+          "Value": "sha256-9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0="
         }
       ]
     },
     {
-      "Route": "address.hkdcxj1jcv.html.gz",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz",
+      "Route": "address.46z86m2tyn.html.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -221,7 +263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "530"
+          "Value": "832"
         },
         {
           "Name": "Content-Type",
@@ -229,11 +271,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE=\""
+          "Value": "\"b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -251,7 +293,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hkdcxj1jcv"
+          "Value": "46z86m2tyn"
         },
         {
           "Name": "label",
@@ -259,18 +301,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE="
+          "Value": "sha256-b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4="
         }
       ]
     },
     {
       "Route": "address.html",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001883239171"
+          "Quality": "0.001200480192"
         }
       ],
       "ResponseHeaders": [
@@ -280,15 +322,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "530"
+          "Value": "832"
         },
         {
           "Name": "ETag",
-          "Value": "\"3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE=\""
+          "Value": "\"b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -308,13 +350,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo=\""
+          "Value": "W/\"9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo="
+          "Value": "sha256-9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0="
         }
       ]
     },
@@ -329,7 +371,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1384"
+          "Value": "2593"
         },
         {
           "Name": "Content-Type",
@@ -337,11 +379,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo=\""
+          "Value": "\"9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -351,13 +393,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T3M50H+9vpvEmpKbZIjU4TKXuFpUMgB1b8/kEc1qsCo="
+          "Value": "sha256-9F181o8TVMOWK0U3Sj0U6LO645i3ZY29tjFrWzHFFn0="
         }
       ]
     },
     {
       "Route": "address.html.gz",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -366,7 +408,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "530"
+          "Value": "832"
         },
         {
           "Name": "Content-Type",
@@ -374,11 +416,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE=\""
+          "Value": "\"b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:58:09 GMT"
+          "Value": "Thu, 10 Apr 2025 19:30:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -396,18 +438,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3AiHOvB8vSC6f1ef0Yae6lDdrzI6g+8sGTv10gigEHE="
+          "Value": "sha256-b/ckByCCkC/TqzDyGusmN5Gu47GX70AX+fp4qYHBdK4="
         }
       ]
     },
     {
-      "Route": "js/script.h7t17rebtw.js",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz",
+      "Route": "css/address.css",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001108647450"
+          "Quality": "0.001076426265"
         }
       ],
       "ResponseHeaders": [
@@ -417,15 +459,313 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "928"
         },
         {
           "Name": "ETag",
-          "Value": "\"owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig=\""
+          "Value": "\"v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk="
+        }
+      ]
+    },
+    {
+      "Route": "css/address.css",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk="
+        }
+      ]
+    },
+    {
+      "Route": "css/address.css.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs="
+        }
+      ]
+    },
+    {
+      "Route": "css/address.ubj4pt3vk6.css",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001076426265"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "928"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubj4pt3vk6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/address.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk="
+        }
+      ]
+    },
+    {
+      "Route": "css/address.ubj4pt3vk6.css",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/css/address.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubj4pt3vk6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/address.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Joh0Vi2sRGbnKHIe53J2XuePGNPwdyO49knGgHKwTRk="
+        }
+      ]
+    },
+    {
+      "Route": "css/address.ubj4pt3vk6.css.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubj4pt3vk6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/address.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/cZXE95cXN2sjnNDtQVGeCCH0NyobUrqMwU1mYNdxs="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.3nom10bwm2.js",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000855431993"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1168"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -445,13 +785,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs=\""
+          "Value": "W/\"wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h7t17rebtw"
+          "Value": "3nom10bwm2"
         },
         {
           "Name": "label",
@@ -459,12 +799,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs="
+          "Value": "sha256-wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0="
         }
       ]
     },
     {
-      "Route": "js/script.h7t17rebtw.js",
+      "Route": "js/script.3nom10bwm2.js",
       "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/wwwroot/js/script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -474,7 +814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3354"
+          "Value": "4532"
         },
         {
           "Name": "Content-Type",
@@ -482,11 +822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs=\""
+          "Value": "\"wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -496,7 +836,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h7t17rebtw"
+          "Value": "3nom10bwm2"
         },
         {
           "Name": "label",
@@ -504,13 +844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs="
+          "Value": "sha256-wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0="
         }
       ]
     },
     {
-      "Route": "js/script.h7t17rebtw.js.gz",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz",
+      "Route": "js/script.3nom10bwm2.js.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "1168"
         },
         {
           "Name": "Content-Type",
@@ -527,11 +867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig=\""
+          "Value": "\"sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -549,7 +889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h7t17rebtw"
+          "Value": "3nom10bwm2"
         },
         {
           "Name": "label",
@@ -557,18 +897,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig="
+          "Value": "sha256-sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s="
         }
       ]
     },
     {
       "Route": "js/script.js",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001108647450"
+          "Quality": "0.000855431993"
         }
       ],
       "ResponseHeaders": [
@@ -578,15 +918,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "1168"
         },
         {
           "Name": "ETag",
-          "Value": "\"owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig=\""
+          "Value": "\"sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -606,13 +946,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs=\""
+          "Value": "W/\"wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs="
+          "Value": "sha256-wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0="
         }
       ]
     },
@@ -627,7 +967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3354"
+          "Value": "4532"
         },
         {
           "Name": "Content-Type",
@@ -635,11 +975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs=\""
+          "Value": "\"wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -649,13 +989,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HZ3Qv0dNUw5j2X5Ly1N889bQVf0lxuXO5szs11Rs2qs="
+          "Value": "sha256-wYhauWQr+pa0PRAMZaQGdOKiXCM4Gi8dptL9L2+7YR0="
         }
       ]
     },
     {
       "Route": "js/script.js.gz",
-      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz",
+      "AssetFile": "/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +1004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "901"
+          "Value": "1168"
         },
         {
           "Name": "Content-Type",
@@ -672,11 +1012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig=\""
+          "Value": "\"sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 09:53:26 GMT"
+          "Value": "Thu, 10 Apr 2025 19:28:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -694,7 +1034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-owe/46VTZgNT1pDUmYuwKs7rXMouWZbk7T2DOtwttig="
+          "Value": "sha256-sqwvwnUtb0cBazvJ9Pzv1DlqqWprv7JjmFkJFCA0Y5s="
         }
       ]
     }

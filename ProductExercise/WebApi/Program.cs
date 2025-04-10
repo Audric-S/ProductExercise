@@ -15,14 +15,25 @@ builder.Services.AddDbContext<DBContext>(
     )
 );
 
-
+/*
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200", "http://localhost:5196")
+        policy.WithOrigins("https://product-front-prod.vercel.app", "http://localhost:5196")
               .AllowAnyMethod()
               .AllowAnyHeader();
+    });
+});
+*/
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()  
+              .AllowAnyMethod()  
+              .AllowAnyHeader(); 
     });
 });
 

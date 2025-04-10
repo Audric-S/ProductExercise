@@ -1,50 +1,87 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestion des Adresses</title>
-    <script src="/js/script.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestion des Adresses</title>
+  <script src="/js/script.js"></script>
+  <link rel="stylesheet" href="/css/address.css">
 </head>
 <body>
-    <h1>Gestion des Adresses</h1>
+  <h1>Gestion des Adresses</h1>
 
-    <h2>Ajouter une nouvelle adresse</h2>
-    <form onsubmit="event.preventDefault(); createAddress();">
-        <div>
-            <label for="street">Rue:</label>
-            <input type="text" id="street" required>
-        </div>
-        <div>
-            <label for="zipCode">Code postal:</label>
-            <input type="text" id="zipCode" required>
-        </div>
-        <div>
-            <label for="city">Ville:</label>
-            <input type="text" id="city" required>
-        </div>
-        <div>
-            <label for="country">Pays:</label>
-            <input type="text" id="country" required>
-        </div>
-        <button type="submit">Ajouter</button>
-    </form>
+  <div id="message" class="message"></div>
 
-    <h2>Liste des adresses</h2>
-    <table border="1">
-        <thead>
-            <tr>
-                <th>Rue</th>
-                <th>Code postal</th>
-                <th>Ville</th>
-                <th>Pays</th>
-                <th>Actions</th>
-            </tr>
-        </thead>
-        <tbody id="addressesTableBody">
-            <!-- Les adresses seront affichées ici -->
-        </tbody>
-    </table>
+  <h2>Ajouter une nouvelle adresse</h2>
+  <form onsubmit="event.preventDefault(); createAddress();">
+    <div>
+      <label for="clientId">Client ID :</label>
+      <input type="number" id="clientId" required>
+    </div>
+    <div>
+      <label for="street">Rue :</label>
+      <input type="text" id="street" required>
+    </div>
+    <div>
+      <label for="zipCode">Code postal :</label>
+      <input type="text" id="zipCode" required>
+    </div>
+    <div>
+      <label for="city">Ville :</label>
+      <input type="text" id="city" required>
+    </div>
+    <div>
+      <label for="country">Pays :</label>
+      <input type="text" id="country" required>
+    </div>
+    <button type="submit">Ajouter</button>
+  </form>
 
+  <h2>Liste des adresses</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Client ID</th>
+        <th>Rue</th>
+        <th>Code postal</th>
+        <th>Ville</th>
+        <th>Pays</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody id="addressesTableBody">
+    </tbody>
+  </table>
+
+  <div id="editModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeEditModal()">&times;</span>
+      <h3>Modifier l'adresse</h3>
+      <form onsubmit="event.preventDefault(); updateAddress();">
+        <input type="hidden" id="editAddressId">
+        <div>
+          <label for="editClientId">Client ID :</label>
+          <input type="number" id="editClientId" required>
+        </div>
+        <div>
+          <label for="editStreet">Rue :</label>
+          <input type="text" id="editStreet" required>
+        </div>
+        <div>
+          <label for="editZipCode">Code postal :</label>
+          <input type="text" id="editZipCode" required>
+        </div>
+        <div>
+          <label for="editCity">Ville :</label>
+          <input type="text" id="editCity" required>
+        </div>
+        <div>
+          <label for="editCountry">Pays :</label>
+          <input type="text" id="editCountry" required>
+        </div>
+        <button type="submit">Mettre à jour</button>
+      </form>
+    </div>
+  </div>
 </body>
 </html>

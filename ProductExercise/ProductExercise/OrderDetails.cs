@@ -1,12 +1,13 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Models;
 
-public class OrderProduct
+public class OrderDetails
 {
     [Key]
-    public int OrderProductId { get; set; }
+    public int OrderDetailsId { get; set; }
 
     [Required]
     public int OrderId { get; set; }

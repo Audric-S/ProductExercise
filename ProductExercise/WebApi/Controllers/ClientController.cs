@@ -2,7 +2,7 @@ using DAL;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Models;
-using MySqlX.XDevAPI;
+using Dto;
 
 namespace WebApi.Controllers
 {
@@ -18,19 +18,25 @@ namespace WebApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateClient([FromBody] Models.Client client)
+        public async Task<IActionResult> CreateClient([FromBody] ClientDto clientDto)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (client.DateOfBirth >= DateTime.Now)
+            if (clientDto.DateOfBirth >= DateTime.Now)
                 return BadRequest("Veuillez renseigner une date de naissance valide.");
+
+            var client = new Client
+            {
+                FirstName = clientDto.FirstName,
+                LastName = clientDto.LastName,
+                DateOfBirth = clientDto.DateOfBirth
+            };
 
             _context.Clients.Add(client);
             await _context.SaveChangesAsync();
 
-            return Ok(client);
-
+            return CreatedAtAction(nameof(GetClient), new { id = client.ClientId }, client);
         }
 
         [HttpGet("{id}")]
@@ -45,7 +51,7 @@ namespace WebApi.Controllers
                 .FirstOrDefaultAsync(c => c.ClientId == id);
 
             if (client == null)
-                return NotFound();
+                return NotFound("Client non trouvé.");
 
             return Ok(client);
         }
@@ -73,21 +79,21 @@ namespace WebApi.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateClient(int id, [FromBody] Models.Client updatedClient)
+        public async Task<IActionResult> UpdateClient(int id, [FromBody] ClientDto clientDto)
         {
-            if (id != updatedClient.ClientId)
-                return BadRequest("L'identifiant ne correspond pas.");
+            if (id <= 0)
+                return BadRequest("ID invalide.");
 
             var client = await _context.Clients.FindAsync(id);
             if (client == null)
-                return NotFound();
+                return NotFound("Client non trouvé.");
 
-            if (updatedClient.DateOfBirth >= DateTime.Now)
+            if (clientDto.DateOfBirth >= DateTime.Now)
                 return BadRequest("Date de naissance invalide.");
 
-            client.FirstName = updatedClient.FirstName;
-            client.LastName = updatedClient.LastName;
-            client.DateOfBirth = updatedClient.DateOfBirth;
+            client.FirstName = clientDto.FirstName;
+            client.LastName = clientDto.LastName;
+            client.DateOfBirth = clientDto.DateOfBirth;
 
             await _context.SaveChangesAsync();
             return NoContent();
@@ -101,10 +107,10 @@ namespace WebApi.Controllers
 
             var client = await _context.Clients.Include(c => c.Orders).FirstOrDefaultAsync(c => c.ClientId == id);
             if (client == null)
-                return NotFound();
+                return NotFound("client non trouvé");
 
             if (client.Orders.Any())
-                return BadRequest("Le client ne peut pas �tre supprim� car il a des commandes.");
+                return BadRequest("Le client ne peut pas être supprimé car il a des commandes.");
 
             _context.Clients.Remove(client);
             await _context.SaveChangesAsync();

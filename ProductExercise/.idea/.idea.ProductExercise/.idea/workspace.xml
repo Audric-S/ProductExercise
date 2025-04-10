@@ -9,109 +9,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbcfdaeb-6472-4053-b158-ec7a7ff89d54" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/DBContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/DBContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/DAL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/Models.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/net9.0/Models.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/DAL.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/ref/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/ref/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/refint/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/net9.0/refint/DAL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/Models.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductExercise/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductExercise/Order.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/Order.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductExercise/OrderProduct.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/bin/Debug/net9.0/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/bin/Debug/net9.0/Models.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/bin/Debug/net9.0/Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/bin/Debug/net9.0/Models.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/Models.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/ref/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/ref/Models.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/refint/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Debug/net9.0/refint/Models.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Models.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Models.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/Models.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/Models.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductExercise/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductExercise/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductExercise/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/Controllers/AddressController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Controllers/AddressController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/BouncyCastle.Cryptography.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/BouncyCastle.Cryptography.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Controllers/ClientController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Controllers/ClientController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Controllers/OrderController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Controllers/OrderController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/WebApi.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/DAL.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Google.Protobuf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Google.Protobuf.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Compression.LZ4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Hash.xxHash.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/K4os.Hash.xxHash.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Models.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Models.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Models.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/Models.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/MySql.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/MySql.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/MySql.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/MySql.EntityFrameworkCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/System.Security.Permissions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/System.Security.Permissions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/System.Windows.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/ZstdSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/ZstdSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-h7t17rebtw.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-hkdcxj1jcv.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/ref/WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/ref/WebApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/refint/WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/refint/WebApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WebApi.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WebApi.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/wwwroot/address.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/wwwroot/address.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/wwwroot/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/wwwroot/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,21 +89,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.WebApi: http.executor": "Run",
-    ".NET Launch Settings Profile.WebApi: https.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.WebApi: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.WebApi: https.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApi: https">
     <configuration name="WebApi: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApi/WebApi.csproj" />
@@ -188,6 +147,7 @@
       <workItem from="1744273241880" duration="19000" />
       <workItem from="1744273360493" duration="40000" />
       <workItem from="1744273651931" duration="2469000" />
+      <workItem from="1744308343089" duration="226000" />
     </task>
     <servers />
   </component>
