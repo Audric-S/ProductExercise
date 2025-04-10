@@ -48,7 +48,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowApp");
+app.UseCors("AllowAll");
 
 app.UseStaticFiles();
 

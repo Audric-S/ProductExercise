@@ -1032,6 +1032,6 @@ C:/Users/Audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/
 /home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache
 /home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/ref/WebApi.dll
 /home/audric/sources/ProductExercise/ProductExercise/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.runtime.json
-/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-ubj4pt3vk6.gz
 /home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/k0ffyb4v2i-3nom10bwm2.gz
-/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-46z86m2tyn.gz
+/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/og4o0k81pr-5r68448fxo.gz
+/home/audric/sources/ProductExercise/ProductExercise/WebApi/obj/Debug/net9.0/compressed/nzihgnhgst-780d89q4qp.gz
