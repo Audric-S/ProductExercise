@@ -40,13 +40,13 @@ namespace WebApi.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (productDto.Price <= 0)
+            if (productDto.Price < 0)
                 return BadRequest("Le prix du produit doit être supérieur à 0.");
 
             if (productDto.UnitInStock <= 0)
                 return BadRequest("La quantité en stock doit être supérieure à 0.");
 
-            if (productDto.Weight <= 0)
+            if (productDto.Weight < 0)
                 return BadRequest("Le poids doit être supérieure à 0.");
 
             var product = new Product
@@ -71,13 +71,13 @@ namespace WebApi.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            if (productDto.Price <= 0)
+            if (productDto.Price < 0)
                 return BadRequest("Le prix du produit doit être supérieur à 0.");
 
             if (productDto.UnitInStock <= 0)
                 return BadRequest("La quantité en stock doit être supérieure à 0.");
             
-            if (productDto.Weight <= 0)
+            if (productDto.Weight < 0)
                 return BadRequest("Le poids doit être supérieure à 0.");
 
             var product = await _context.Products.FindAsync(id);
@@ -102,8 +102,17 @@ namespace WebApi.Controllers
             if (product == null)
                 return NotFound("Produit introuvable");
 
+            var isProductInOrder = await _context.OrderDetails
+                .AnyAsync(od => od.ProductId == id);
+
+            if (isProductInOrder)
+            {
+                return BadRequest("Ce produit ne peut pas être supprimé car il est déjà utilisé dans une commande.");
+            }
+
             _context.Products.Remove(product);
             await _context.SaveChangesAsync();
+            
             return NoContent();
         }
     }
